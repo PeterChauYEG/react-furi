@@ -20,12 +20,6 @@
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
-  "main": "dist/index.js",
-  "module": "dist/index.es.js",
-  "jsnext:main": "dist/index.es.js",
-  "files": [
-    "dist"
-  ],
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^15.3.0 || ^16.2.0",
